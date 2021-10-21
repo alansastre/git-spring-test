@@ -6,6 +6,6 @@ public class IoanTest {
 
     @Test
     void test1(){
-        System.out.println("Hola desde git xd");
+        System.out.println("Hola desde git xd xd");
     }
 }
