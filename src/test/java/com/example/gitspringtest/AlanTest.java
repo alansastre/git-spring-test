@@ -8,4 +8,9 @@ public class AlanTest {
     void name() {
         System.out.println("Hola desde junit");
     }
+
+    @Test
+    void name2() {
+        System.out.println("Hola desde junit");
+    }
 }
